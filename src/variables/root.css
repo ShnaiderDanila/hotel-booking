@@ -1,0 +1,17 @@
+:root {
+  font-family: 'Inter', 'Montserrat', Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --font-mons: 'Montserrat';
+  --font-w500: 500;
+  --font-w600: 600;
+  --font-w700: 700;
+  --m0: 0;
+  --p0: 0;
+  --text-color: #848FAC;
+  --primary-color: #192252;
+  --white-color: #FFFFFF;
+  --button-bgcolor: #0E1734;
+  --link-color: #424F7B;
+  --ftext-color: #D9DBDE;
+}
