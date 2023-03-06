@@ -1,0 +1,7 @@
+.header__link {
+  font-size: 16px;
+  line-height: 19px;
+  font-weight: var(--font-w500);
+  color: var(--primary-color);
+  text-decoration: none;
+}
