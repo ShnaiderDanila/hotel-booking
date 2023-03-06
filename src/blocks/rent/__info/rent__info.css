@@ -1,0 +1,7 @@
+.rent__info {
+  max-width: 587px;
+  min-height: 332px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
