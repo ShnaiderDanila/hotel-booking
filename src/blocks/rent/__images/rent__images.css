@@ -1,0 +1,6 @@
+.rent__images {
+  max-width: 588px;
+  min-height: 685px;
+  display: flex;
+  column-gap: 24px;
+}

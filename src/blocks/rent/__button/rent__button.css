@@ -1,0 +1,9 @@
+.rent__button {
+  width: 180px;
+  padding: 14px 32px;
+  background-color: var(--button-bgcolor);
+  color: var(--white-color);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
