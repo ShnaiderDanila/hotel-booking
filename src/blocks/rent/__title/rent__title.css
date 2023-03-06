@@ -1,0 +1,10 @@
+.rent__title {
+  max-width: 100%;
+  margin: var(--m0);
+  font-family: var(--font-mons);
+  font-size: 48px;
+  font-weight: var(--font-w600);
+  line-height: 72px;
+  letter-spacing: -1px;
+  color: var(--primary-color);
+}

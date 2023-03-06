@@ -1,0 +1,7 @@
+.rent__subtitle {
+  max-width: 485px;
+  margin: var(--m0);
+  font-size: 18px;
+  line-height: 27px;
+  color: var(--text-color);
+}

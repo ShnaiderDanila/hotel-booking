@@ -8,3 +8,10 @@
 @import url('../blocks/header/__links/header__links.css');
 @import url('../blocks/header/__link/header__link.css');
 @import url('../blocks/header/__button/header__button.css');
+@import url('../blocks/rent/rent.css');
+@import url('../blocks/rent/__text/rent__text.css');
+@import url('../blocks/rent/__title/rent__title.css');
+@import url('../blocks/rent/__subtitle/rent__subtitle.css');
+@import url('../blocks/rent/__button/rent__button.css');
+@import url('../blocks/rent/__images/rent__images.css');
+@import url('../blocks/rent/__image/rent__image.css');
