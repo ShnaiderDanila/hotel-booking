@@ -1,0 +1,7 @@
+.footer__list-title {
+  margin: var(--m0);
+  font-weight: var(--font-w700);
+  font-size: 16px;
+  line-height: 19px;
+  color: var(--white-color);
+}

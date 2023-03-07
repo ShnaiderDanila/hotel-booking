@@ -1,0 +1,9 @@
+.logo_place_footer {
+  color: var(--white-color);
+}
+
+@media (max-width: 1023px) {
+  .logo_place_footer {
+    margin: var(--m-auto);
+  }
+}

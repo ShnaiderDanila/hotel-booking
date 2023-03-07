@@ -16,3 +16,27 @@
 @import url('../blocks/rent/__button/rent__button.css');
 @import url('../blocks/rent/__images/rent__images.css');
 @import url('../blocks/rent/__image/rent__image.css');
+/* Comments */
+@import url('../blocks/comments/comments.css');
+@import url('../blocks/comments/__title/comments__title.css');
+@import url('../blocks/comments/__avatar/comments__avatar.css');
+@import url('../blocks/comments/__quote/comments__quote.css');
+@import url('../blocks/comments/__username/comments__username.css');
+@import url('../blocks/comments/__slider-design/comments__slider-design.css');
+/* Logo */
+@import url('../blocks/logo/logo.css');
+@import url('../blocks/logo/_place/logo_place_footer.css');
+/* Footer */
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__container/footer__container.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');
+@import url('../blocks/footer/__copyright-subtitle/footer__copyright-subtitle.css');
+@import url('../blocks/footer/__social-items/footer__social-items.css');
+@import url('../blocks/footer/__social-item/footer__social-item.css');
+@import url('../blocks/footer/__social-icon/footer__social-icon.css');
+@import url('../blocks/footer/__nav/footer__nav.css');
+@import url('../blocks/footer/__list/footer__list.css');
+@import url('../blocks/footer/__list-title/footer__list-title.css');
+@import url('../blocks/footer/__list-link/footer__list-link.css');
+
+

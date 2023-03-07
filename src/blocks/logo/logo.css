@@ -1,0 +1,8 @@
+.logo {
+  max-width: 228px;
+  margin: var(--m0);
+  font-family: var(--font-mons);
+  font-weight: var(--font-w600);
+  font-size: 32px;
+  line-height: 39px;
+}
