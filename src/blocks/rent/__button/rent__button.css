@@ -7,3 +7,10 @@
   border-radius: 4px;
   cursor: pointer;
 }
+
+@media screen and (max-width: 1230px) {
+  .rent__button {
+    width: 100%;
+    font-size: 24px;
+  }
+}

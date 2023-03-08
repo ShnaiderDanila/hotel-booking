@@ -1,7 +1,26 @@
 .rent__info {
   max-width: 587px;
-  min-height: 332px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  row-gap: 59px;
+}
+
+@media (max-width: 768px) {
+  .rent__info {
+    padding: 60px 20px 65px;
+  }
+}
+
+@media screen and (max-width: 555px) {
+  .rent__info {
+    justify-content: flex-start;
+    row-gap: 30px;
+  }
+}
+
+@media (max-width: 425px) {
+  .rent__info {
+    padding: 40px 20px 45px;
+  }
 }

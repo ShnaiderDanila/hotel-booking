@@ -8,3 +8,10 @@
   letter-spacing: -1px;
   color: var(--primary-color);
 }
+
+@media  screen and (max-width:  555px) {
+  .rent__title {
+    font-size: 28px;
+    line-height: 42px;
+  }
+}

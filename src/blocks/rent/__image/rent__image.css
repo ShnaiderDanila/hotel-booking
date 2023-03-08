@@ -1,9 +1,20 @@
 .rent__image {
-  display: block;
-  width: 180px;
-  height: 588px;
+  width: 100%;
+  object-fit: contain;
+}
+
+.rent__image:not(:nth-child(2)) {
+  align-self: start;
 }
 
 .rent__image:nth-child(2) {
-  align-self: flex-end;
+  align-self: end;
+}
+
+
+@media screen and (max-width: 610px) {
+  .rent__image:nth-child(2) {
+    padding-top: 50%;
+    align-self: start;
+  }
 }

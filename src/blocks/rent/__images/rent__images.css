@@ -1,6 +1,14 @@
 .rent__images {
-  max-width: 588px;
+  max-width: 100%;
   min-height: 685px;
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(auto, 1fr));
   column-gap: 24px;
+}
+
+@media screen and (max-width: 610px) {
+  .rent__images {
+    min-height: initial;
+    column-gap: 14px;
+  }
 }
