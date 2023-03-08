@@ -1,0 +1,33 @@
+.catalog {
+  max-width: 1200px;
+  margin: var(--m-auto);
+  padding: 80px 40px 85px;
+  font-size: 18px;
+  line-height: 150%;
+}
+
+.catalog *:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .catalog {
+    padding: 60px 20px 65px;
+  }
+}
+
+@media (max-width: 425px) {
+  .catalog {
+    padding: 40px 20px 45px;
+  }
+}
+
+@media (max-width: 375px) {
+  .catalog {
+    font-size: 16px;
+  }
+}
+
+
+
+

@@ -1,0 +1,9 @@
+.catalog__subtitle {
+  max-width: 588px;
+  margin: 24px auto 0;
+  text-align: center;
+  color: var(--text-color);
+}
+
+
+

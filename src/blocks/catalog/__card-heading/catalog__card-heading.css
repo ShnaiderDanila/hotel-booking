@@ -1,0 +1,12 @@
+.catalog__card-heading {
+  margin: 0 0 16px 0;
+  font-family: var(--font-mons);
+  font-weight: var(--font-w600);
+  font-size: 24px;
+}
+
+@media (max-width: 375px) {
+  .catalog__card-heading {
+    font-size: 20px;
+  }
+}

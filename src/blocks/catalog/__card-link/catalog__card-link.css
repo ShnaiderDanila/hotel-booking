@@ -1,0 +1,13 @@
+.catalog__card-link {
+  text-decoration: none;
+  color: var(--link-color);
+  margin-top: auto;
+}
+
+@media (min-width: 769px) {
+  .catalog__card-link {
+    max-width: 129px;
+  }
+}
+
+

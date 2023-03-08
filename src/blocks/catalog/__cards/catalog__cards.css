@@ -1,0 +1,13 @@
+.catalog__cards {
+  margin: 88px 0 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 48px 24px;
+}
+
+@media (max-width: 767px) {
+  .catalog__cards {
+    margin: 68px 0 0 0;
+  }
+}

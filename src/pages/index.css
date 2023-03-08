@@ -16,6 +16,19 @@
 @import url('../blocks/rent/__button/rent__button.css');
 @import url('../blocks/rent/__images/rent__images.css');
 @import url('../blocks/rent/__image/rent__image.css');
+/* Info-button */
+@import url('../blocks/info-button/info-button.css');
+/* Catalog */
+@import url('../blocks/catalog/catalog.css');
+@import url('../blocks/catalog/__title/catalog__title.css');
+@import url('../blocks/catalog/__subtitle/catalog__subtitle.css');
+@import url('../blocks/catalog/__button/catalog__button.css');
+@import url('../blocks/catalog/__cards/catalog__cards.css');
+@import url('../blocks/catalog/__card/catalog__card.css');
+@import url('../blocks/catalog/__card-image/catalog__card-image.css');
+@import url('../blocks/catalog/__card-heading/catalog__card-heading.css');
+@import url('../blocks/catalog/__card-description/catalog__card-description.css');
+@import url('../blocks/catalog/__card-link/catalog__card-link.css');
 /* Comments */
 @import url('../blocks/comments/comments.css');
 @import url('../blocks/comments/__title/comments__title.css');

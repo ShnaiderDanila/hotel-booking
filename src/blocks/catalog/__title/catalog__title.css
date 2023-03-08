@@ -1,13 +1,20 @@
-.comments__title {
+.catalog__title {
   margin: var(--m0);
   font-family: var(--font-mons);
   font-weight: var(--font-w600);
   font-size: 36px;
   color: var(--primary-color);
+  text-align: center;
 }
 
 @media (max-width: 425px) {
-  .comments__title {
-    font-size: 30px;
+  .catalog__title {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 375px) {
+  .catalog__title {
+    font-size: 26px;
   }
 }
