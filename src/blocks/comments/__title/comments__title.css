@@ -1,13 +1,15 @@
 .comments__title {
-  margin: var(--m0);
+  max-width: 630px;
+  margin: var(--m-auto);
+  text-align: center;
   font-family: var(--font-mons);
   font-weight: var(--font-w600);
   font-size: 36px;
   color: var(--primary-color);
 }
 
-@media (max-width: 425px) {
+@media (max-width: 767px) {
   .comments__title {
-    font-size: 30px;
+    font-size: 28px;
   }
 }

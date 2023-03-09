@@ -1,0 +1,9 @@
+.interior__item {
+  font-size: 0;
+}
+
+.interior__item:nth-child(1) {
+  grid-row: 1/4;
+  grid-column: 1/4;
+}
+
