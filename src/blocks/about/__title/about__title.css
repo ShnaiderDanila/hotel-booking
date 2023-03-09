@@ -1,0 +1,9 @@
+.about__title {
+  margin: var(--m0);
+  font-weight: var(--font-w600);
+  font-family: var(--font-mons);
+  font-size: 36px;
+  line-height: 150%;
+  color: var(--primary-color);
+  row-gap: 24px;
+}
