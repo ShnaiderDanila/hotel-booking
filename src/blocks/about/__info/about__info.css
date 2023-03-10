@@ -1,14 +1,6 @@
 .about__info {
-  max-width: 690px;
+  max-width: 584px;
   display: flex;
   flex-direction: column;
-  align-self: center;
   row-gap: 17px;
-}
-
-@media screen and (max-width: 768px) {
-  .about__info {
-    order: -1;
-    padding: 20px 60px;
-  }
 }
