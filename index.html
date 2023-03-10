@@ -5,6 +5,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./src/pages/index.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+  <link rel="stylesheet" href="./src/vendor/animate.css">
   <title>Hotel Booking</title>
 </head>
 <body class="page">
@@ -35,18 +37,18 @@
       </div>
     </section>
     <section class="about">
-      <img class="about__image" src="./src/images/about.png" alt="Дом в норвежском стиле">
+      <img class="about__image wow animate__fadeInDown" src="./src/images/about.png" alt="Дом в норвежском стиле">
       <h3 class="about__title">Уютный двухэтажный дом в норвежском стиле</h3>
       <div class="about__info">
         <p class="about__subtitle">Просторные коттеджи с видом на лес полностью укомплектованы: кондиционер, холодильник, посудомоечная машина, газовая плита, духовка, микроволновая печь, чайник, набор посуды и столовых приборов.
           В каждом коттедже: стиральная машина, гладильная станция, сушилка для белья, фен.
-         </p>
-        <button class="about__button info-button" type="button">Подробнее</button>
+        </p>
+        <button class="about__button info-button jello-horizontal" type="button">Подробнее</button>
       </div>
     </section>
     <section class="interior">
       <h2 class="interior__title">Наши интерьеры</h2>
-      <ul class="interior__items">
+      <ul class="interior__items wow animate__zoomIn">
         <li class="interior__item interior__item_size_big">
           <img class="interior__image" src="./src/images/first-grid-item.jpg" alt="Фото интерьера">
           <img class="interior__slider-design" src="./src/images/grid-slider-design.svg" alt="Иконка слайдера">
@@ -68,8 +70,8 @@
         У нас есть дома для любых мероприятий.
         Для большой компании у нас есть двухэтажный дом на самом краю леса.
       </p>
-      <button class="catalog__button info-button" type="button">Подробнее</button>
-      <div class="catalog__cards">
+      <button class="catalog__button info-button jello-horizontal" type="button">Подробнее</button>
+      <div class="catalog__cards wow animate__fadeInRight">
         <article class="catalog__card">
           <img src="./src/images/little-house.jpg" alt="Маленький коттедж" class="catalog__card-image">
           <h3 class="catalog__card-heading">Маленький домик</h3>
@@ -98,7 +100,7 @@
     </section>
     <section class="comments">
       <h2 class="comments__title">Отзывы</h2>
-      <img class="comments__avatar" src="./src/images/user-avatar.png" alt="Аватарка пользователя">
+      <img class="comments__avatar fade-in" src="./src/images/user-avatar.png" alt="Аватарка пользователя">
       <blockquote class="comments__quote">
         Мы очень долго искали коттедж, чтобы отметить день рождение.
         Все очень понравилось.
@@ -148,5 +150,9 @@
       </nav>
     </div>
   </footer>
+  <script src="./src/vendor/wow.min.js"></script>
+  <script>
+  new WOW().init();
+  </script>
 </body>
 </html>

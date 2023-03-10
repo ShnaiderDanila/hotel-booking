@@ -1,9 +1,8 @@
 .about__button {
   width: 153px;
-  height: 50px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 875px) {
   .about__button{
     width: 100%;
     align-self: center;

@@ -1,9 +1,11 @@
 .about {
+  max-width: 1200px;
   display: grid;
   grid-template-columns: repeat(2, auto);
   grid-template-rows: repeat(2, auto);
   column-gap: 126px;
   margin: var(--m-auto);
+  padding: 80px 40px 83px;
 }
 
 @media screen and (max-width: 1023px) {
@@ -12,12 +14,18 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media (max-width: 875px) {
   .about {
     grid-template-columns: auto;
-    grid-template-rows: repeat(4, auto);
+    grid-template-rows: repeat(3, auto);
     justify-items: center;
-    padding: 20px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .about {
+    padding: 60px 20px 43px;
   }
 }
 

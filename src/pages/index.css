@@ -1,6 +1,8 @@
 @import url('../vendor/normalize.css');
 @import url('../fonts/fonts.css');
 @import url('../variables/root.css');
+@import url('../animations/fade-in.css');
+@import url('../animations/jello-horizontal.css');
 @import url('../blocks/page/page.css');
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__container/header__container.css');
