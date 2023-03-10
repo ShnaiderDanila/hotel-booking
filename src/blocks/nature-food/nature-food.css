@@ -1,0 +1,18 @@
+.nature-food {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media screen and (max-width: 1050px) {
+  .nature-food {
+    column-gap: 20px;
+  }
+}
+
+@media screen and (max-width: 875px) {
+  .nature-food {
+    flex-direction: column;
+    gap: 20px;
+  }
+}

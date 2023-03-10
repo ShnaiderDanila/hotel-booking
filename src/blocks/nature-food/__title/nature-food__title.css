@@ -1,5 +1,5 @@
-.about__title {
-  max-width: 690px;
+.nature-food__title {
+  max-width: 572px;
   margin: var(--m0);
   font-weight: var(--font-w600);
   font-family: var(--font-mons);
@@ -7,12 +7,11 @@
   line-height: 1.5;
   letter-spacing: -1px;
   color: var(--primary-color);
-  align-self: end;
 }
 
-@media screen and (max-width: 768px) {
-  .about__title {
+@media screen and (max-width: 875px) {
+  .nature-food__title {
     font-size: 28px;
+    text-align: center;
   }
 }
-

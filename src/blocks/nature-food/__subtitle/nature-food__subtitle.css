@@ -1,0 +1,12 @@
+.nature-food__subtitle {
+  margin: var(--m0);
+  font-size: 18px;
+  line-height: 27px;
+  color: var(--text-color);
+}
+
+@media screen and (max-width: 875px) {
+  .nature-food__subtitle {
+    text-align: center;
+  }
+}

@@ -1,0 +1,14 @@
+.benefits {
+  max-width: 1200px;
+  margin: var(--m-auto);
+  display: flex;
+  flex-direction: column;
+  row-gap: 32px;
+  padding: 80px 20px 0;
+}
+
+@media (max-width: 768px) {
+  .benefits {
+    padding: 60px 20px 0;
+  }
+}

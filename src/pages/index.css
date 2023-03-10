@@ -21,6 +21,27 @@
 @import url('../blocks/rent/__button/rent__button.css');
 @import url('../blocks/rent/__images/rent__images.css');
 @import url('../blocks/rent/__image/rent__image.css');
+/* About */
+@import url('../blocks/about/about.css');
+@import url('../blocks/about/__image/about__image.css');
+@import url('../blocks/about/__info/about__info.css');
+@import url('../blocks/about/__title/about__title.css');
+@import url('../blocks/about/__subtitle/about__subtitle.css');
+@import url('../blocks/about/__button/about__button.css');
+/* Benefits */
+@import url('../blocks/benefits/benefits.css');
+/* Activity */
+@import url('../blocks/activity/activity.css');
+@import url('../blocks/activity/__text/activity__text.css');
+@import url('../blocks/activity/__title/activity__title.css');
+@import url('../blocks/activity/__subtitle/activity__subtitle.css');
+@import url('../blocks/activity/__image/activity__image.css');
+/* Nature food */
+@import url('../blocks/nature-food/nature-food.css');
+@import url('../blocks/nature-food/__text/nature-food__text.css');
+@import url('../blocks/nature-food/__title/nature-food__title.css');
+@import url('../blocks/nature-food/__subtitle/nature-food__subtitle.css');
+@import url('../blocks/nature-food/__image/nature-food__image.css');
 /* Info-button */
 @import url('../blocks/info-button/info-button.css');
 /* Interior */
@@ -49,13 +70,6 @@
 @import url('../blocks/comments/__quote/comments__quote.css');
 @import url('../blocks/comments/__username/comments__username.css');
 @import url('../blocks/comments/__slider-design/comments__slider-design.css');
-/* About */
-@import url('../blocks/about/about.css');
-@import url('../blocks/about/__image/about__image.css');
-@import url('../blocks/about/__info/about__info.css');
-@import url('../blocks/about/__title/about__title.css');
-@import url('../blocks/about/__subtitle/about__subtitle.css');
-@import url('../blocks/about/__button/about__button.css');
 /* Logo */
 @import url('../blocks/logo/logo.css');
 @import url('../blocks/logo/_place/logo_place_header.css');

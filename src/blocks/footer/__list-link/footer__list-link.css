@@ -7,6 +7,6 @@
 }
 
 .footer__list-link:hover {
-  opacity: 0.7;
+  opacity: var(--link-opacity);
 }
 

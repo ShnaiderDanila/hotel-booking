@@ -1,0 +1,14 @@
+.nature-food__text {
+  max-width: 584px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 24px;
+  order: 2;
+}
+
+@media screen and (max-width: 875px) {
+  .nature-food__text {
+    align-items: center;
+    order: initial;
+  }
+}

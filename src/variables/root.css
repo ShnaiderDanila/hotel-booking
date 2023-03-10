@@ -17,5 +17,6 @@
   --link-color: #424F7B;
   --ftext-color: #D9DBDE;
   --link-hover: opacity 0.5s cubic-bezier(0, 0, 0.2, 1);
+  --link-opacity: 0.7;
 }
 

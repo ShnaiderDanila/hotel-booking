@@ -7,7 +7,7 @@
 }
 
 .catalog__card-link:hover {
-  opacity: 0.7;
+  opacity: var(--link-opacity);
 }
 
 

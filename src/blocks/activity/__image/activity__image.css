@@ -1,0 +1,6 @@
+@media screen and (max-width: 875px){
+  .activity__image {
+    max-width: 100%;
+    object-fit: cover;
+  }
+}
