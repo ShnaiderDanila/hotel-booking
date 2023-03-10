@@ -4,4 +4,9 @@
   font-weight: var(--font-w500);
   color: var(--primary-color);
   text-decoration: none;
+  transition: var(--link-hover);
+}
+
+.header__link:hover {
+  opacity: 0.7;
 }

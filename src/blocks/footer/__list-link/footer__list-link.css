@@ -3,4 +3,10 @@
   font-size: 16px;
   line-height: 19px;
   color: var(--ftext-color);
+  transition: var(--link-hover);
 }
+
+.footer__list-link:hover {
+  opacity: 0.7;
+}
+

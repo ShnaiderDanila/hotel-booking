@@ -67,6 +67,7 @@
 @import url('../blocks/footer/__copyright-subtitle/footer__copyright-subtitle.css');
 @import url('../blocks/footer/__social-items/footer__social-items.css');
 @import url('../blocks/footer/__social-item/footer__social-item.css');
+@import url('../blocks/footer/__social-link/footer__social-link.css');
 @import url('../blocks/footer/__social-icon/footer__social-icon.css');
 @import url('../blocks/footer/__nav/footer__nav.css');
 @import url('../blocks/footer/__list/footer__list.css');

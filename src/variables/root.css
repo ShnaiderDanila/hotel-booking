@@ -16,4 +16,6 @@
   --footer-bgcolor: #0B265A;
   --link-color: #424F7B;
   --ftext-color: #D9DBDE;
+  --link-hover: opacity 0.5s cubic-bezier(0, 0, 0.2, 1);
 }
+
