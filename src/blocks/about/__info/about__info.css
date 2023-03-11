@@ -2,5 +2,12 @@
   max-width: 584px;
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
   row-gap: 17px;
+}
+
+@media screen and (max-width: 875px) {
+  .about__info {
+    row-gap: 32px;
+  }
 }

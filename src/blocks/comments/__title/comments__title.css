@@ -8,7 +8,7 @@
   color: var(--primary-color);
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .comments__title {
     font-size: 28px;
   }

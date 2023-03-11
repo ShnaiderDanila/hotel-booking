@@ -10,8 +10,7 @@
   opacity: var(--link-opacity);
 }
 
-
-@media (min-width: 769px) {
+@media screen and (min-width: 769px) {
   .catalog__card-link {
     max-width: 129px;
   }

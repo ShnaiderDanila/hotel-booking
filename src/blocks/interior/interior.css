@@ -2,7 +2,7 @@
   padding: 80px 0 0 0;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .interior {
     padding: 60px 0 0 0;
   }

@@ -4,7 +4,7 @@
   object-fit: cover;
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .catalog__card-image {
     margin: 0 0 24px 0;
   }

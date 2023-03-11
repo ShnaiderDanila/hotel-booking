@@ -2,3 +2,10 @@
   display: block;
   margin: 32px auto 0;
 }
+
+@media screen and (max-width: 875px) {
+  .catalog__button {
+    width: 100%;
+    max-width: 450px;
+  }
+}

@@ -5,7 +5,7 @@
   grid-template-rows: repeat(2, auto);
   column-gap: 126px;
   margin: var(--m-auto);
-  padding: 80px 20px 0;
+  padding: 80px 20px;
 }
 
 @media screen and (max-width: 1023px) {
@@ -14,18 +14,14 @@
   }
 }
 
-@media (max-width: 875px) {
+@media screen and (max-width: 875px) {
   .about {
     grid-template-columns: auto;
     grid-template-rows: repeat(3, auto);
     justify-items: center;
     text-align: center;
+    padding: 60px 20px 40px;
   }
 }
 
-@media (max-width: 768px) {
-  .about {
-    padding: 60px 20px 0;
-  }
-}
 

@@ -1,8 +1,14 @@
 .about__subtitle {
   max-width: 584px;
   margin: var(--m0);
-  padding-top: 28px;
+  margin-top: 28px;
   font-size: 18px;
   line-height: 27px;
   color: var(--text-color);
+}
+
+@media screen and (max-width: 875px) {
+  .about__subtitle {
+    margin-top: 24px;
+  }
 }

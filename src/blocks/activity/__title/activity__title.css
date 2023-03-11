@@ -9,7 +9,7 @@
   color: var(--primary-color);
 }
 
-@media screen and (max-width: 875px) {
+@media screen and (max-width: 767px) {
   .activity__title {
     font-size: 28px;
   }

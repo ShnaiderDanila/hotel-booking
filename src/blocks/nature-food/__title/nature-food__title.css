@@ -9,7 +9,7 @@
   color: var(--primary-color);
 }
 
-@media screen and (max-width: 875px) {
+@media screen and (max-width: 767px) {
   .nature-food__title {
     font-size: 28px;
     text-align: center;

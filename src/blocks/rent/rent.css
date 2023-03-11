@@ -1,13 +1,14 @@
 .rent {
   max-width: 1200px;
   margin: var(--m-auto);
-  padding: 80px 20px 0;
+  padding: 80px 20px;
   display: grid;
   grid-template-areas:
   "title images"
   "text images";
   grid-template-columns:  repeat(2, minmax(0, auto));
   align-items: center;
+  column-gap: 20px;
 }
 
 @media screen and (max-width: 875px) {
@@ -17,14 +18,13 @@
     "images"
     "text";
     grid-template-columns: minmax(0, auto);
-    row-gap: 10px;
     justify-items: center;
     text-align: center;
   }
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 875px) {
   .rent {
-    padding: 60px 20px 0;
+    padding: 60px 20px 40px;
   }
 }

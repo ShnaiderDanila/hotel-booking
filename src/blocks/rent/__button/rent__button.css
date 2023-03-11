@@ -1,5 +1,5 @@
 .rent__button {
-  width: 180px;
+  max-width: 180px;
   padding: 14px 32px;
   background-color: var(--button-bgcolor);
   color: var(--white-color);
@@ -11,5 +11,7 @@
 @media screen and (max-width: 875px) {
   .rent__button {
     width: 100%;
+    max-width: 450px;
+    margin: var(--m-auto);
   }
 }

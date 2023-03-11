@@ -3,16 +3,16 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 48px 24px;
+  gap: 32px 24px;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 875px) {
   .catalog__cards {
     margin: 68px 0 0 0;
   }
 }
 
-@media (max-width: 425px) {
+@media screen and (max-width: 425px) {
   .catalog__cards {
     margin: 48px 0 0 0;
   }

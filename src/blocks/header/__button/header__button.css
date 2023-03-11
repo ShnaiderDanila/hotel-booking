@@ -7,9 +7,10 @@
   cursor: pointer;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .header__button {
-    font-size: 24px;
-    width: 305px;
+    font-size: 20px;
+    width: 100%;
+    max-width: 250px;
   }
 }

@@ -4,6 +4,12 @@
   align-items: center;
 }
 
+@media screen and (max-width: 1050px) {
+  .activity {
+    column-gap: 20px;
+  }
+}
+
 @media screen and (max-width: 875px) {
   .activity {
     flex-direction: column;

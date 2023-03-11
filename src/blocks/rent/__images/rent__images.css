@@ -17,6 +17,7 @@
 
 @media screen and (max-width: 875px) {
   .rent__images {
+    margin-top: 24px;
     column-gap: 10px;
   }
 }
