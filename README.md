@@ -40,4 +40,9 @@ npm i
 ## Макет проектной работы Figma:
 - [Макет](https://www.figma.com/file/fUtEsAUkM11D4VyV5xnivB/HotelBooking?node-id=0%3A1&t=oP3kQyg0wMdki4g7-0)
   
-2023© Шнайдер Данила
+## Автор
+
+**Данила Шнайдер**
+
+- E-mail: [d.shnder@gmail.com](mailto:d.shnder@gmail.com)
+- Telegram: [@shnd3r](https://t.me/shnd3r)
