@@ -18,24 +18,22 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-### С применением:
+**С применением:**
 * Flexbox
 * Grid Layout
 * BEM Methodology
 * File Structure and File Paths (Nested BEM)
 
 ## Инструкция по установке: 
-#### Клонировать репозиторий:
+**Клонировать репозиторий:**
 ```
 git clone https://github.com/Shnd3r/hotel-booking.git
 ```
-#### Установить зависимости:
+**Установить зависимости:**
 ```
 npm install
 ```
 **Запустить локальный сервер разработки с функцией перезагрузки в реальном времени для статических и динамических страниц (Например: используя расширение Live Server).**
-**ИЛИ**
-**Просто открыть файл index.html.**
 
 ## Планы по доработке проекта:
 1. Сборка проекта посредством Webpack;
