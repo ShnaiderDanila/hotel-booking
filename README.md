@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Проект:+"Hotel+Booking")](https://git.io/typing-svg)
 Создан в команде с [Андреем Баевым](https://github.com/mimoyo), в рамках конкурса вёрстки [Яндекс.Практикума](https://practicum.yandex.ru/) на факультете ["Веб-разработчик"](https://practicum.yandex.ru/web/)
 
-![Hotel-booking](https://github.com/Shnd3r/hotel-booking/assets/116545792/3fbaa16b-4126-44c1-85af-6913d2ffc2d6)
+![Hotel-booking](https://github.com/Shnd3r/hotel-booking/assets/116545792/504dc618-c898-43e1-aa94-d1cd7531ec1b)
 
 ## Описание проекта:
 "Hotel Booking" - это проект, занявший 3 место в конкурсе вёрстки, среди других 20 участников. Сам проект представляет собой лендинг отеля, с подключением анимаций из различных СSS и JS библиотек.
